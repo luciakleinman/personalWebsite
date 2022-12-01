@@ -30,7 +30,7 @@ p {
 
 /* NAVBAR  */
 .navbar {
-    padding: 0%;
+    padding: 2%;
     color: #3F3B6C;
     font-size: 1rem;
   }
@@ -39,8 +39,9 @@ p {
     color: #3F3B6C;
   }
   .navbar-brand {
-    padding: 0px 30% 0px 0px;
+    padding: 0px 3% 0px 0px;
     color: #3F3B6C;
+    font-sixe: 1.2rem;
   }
   .navbar-toggler {
     margin: 20px;

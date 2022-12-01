@@ -27,9 +27,32 @@ p {
     font-size: 1.4rem;
 }
 
+
+/* NAVBAR  */
+.navbar {
+    padding: 0%;
+    color: #3F3B6C;
+    font-size: 1rem;
+  }
+  .nav-item {
+    padding: 0%;
+    color: #3F3B6C;
+  }
+  .navbar-brand {
+    padding: 0px 30% 0px 0px;
+    color: #3F3B6C;
+  }
+  .navbar-toggler {
+    margin: 20px;
+  }
+  .navCont {
+    margin-left: 1%;
+  }
+
+
 h1 {
     font-family: 'Syne', sans-serif;
-    font-weight: bold;
+    font-weight: 700;
     line-height: 1.5;
     font-size: 3rem;
     color: #3B3486;
@@ -37,7 +60,7 @@ h1 {
 
 .myname {
     font-family: 'Syne', sans-serif;
-    font-weight: bolder;
+    font-weight: 800;
     line-height: 1;
     font-size: 3.5rem;
     color: #3B3486;
@@ -53,32 +76,11 @@ h2 {
 
 h3 {
     font-family: 'Syne', sans-serif;
-    font-weight: bold;
+    font-weight: 700;
     line-height: 1.5;
     font-size: 1.6rem;
     color: #3B3486;
 }
-
-/* NAVBAR  */
-.navbar {
-    padding: 0%;
-    color: #3F3B6C;
-    font-size: 1rem;
-  }
-  .nav-item {
-    padding: 0% 3% 0% 3%;
-    color: #3F3B6C;
-  }
-  .navbar-brand {
-    padding: 0px 30% 0px 0px;
-    color: #3F3B6C;
-  }
-  .navbar-toggler {
-    margin: 20px;
-  }
-  .navCont {
-    margin-left: 1%;
-  }
 
 
 /*   HEADER    */

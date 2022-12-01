@@ -1,0 +1,174 @@
+html {
+    
+    background-image: url("wallpaper-600x600.png");
+    background-repeat: repeat;
+    background-size: 250px;
+
+}
+
+body {
+    font-family: 'Syne', sans-serif;
+    text-align: center;
+    line-height: 1.5;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #E7E6EF;
+    font-size: 1.4rem;
+    
+    
+}
+
+a {
+    color: #7F7B8A;
+}
+
+p {
+    color: #7F7B8A;
+    font-size: 1.4rem;
+}
+
+h1 {
+    font-family: 'Syne', sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 3rem;
+    color: #3B3486;
+}
+
+.myname {
+    font-family: 'Syne', sans-serif;
+    font-weight: bolder;
+    line-height: 1;
+    font-size: 3.5rem;
+    color: #3B3486;
+}
+
+h2 {
+    font-family: 'Syne', sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 2rem;
+    color: #3F3B6C;
+}
+
+h3 {
+    font-family: 'Syne', sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 1.6rem;
+    color: #3B3486;
+}
+
+/* NAVBAR  */
+.navbar {
+    padding: 0%;
+    color: #3F3B6C;
+    font-size: 1rem;
+  }
+  .nav-item {
+    padding: 0% 3% 0% 3%;
+    color: #3F3B6C;
+  }
+  .navbar-brand {
+    padding: 0px 30% 0px 0px;
+    color: #3F3B6C;
+  }
+  .navbar-toggler {
+    margin: 20px;
+  }
+  .navCont {
+    margin-left: 1%;
+  }
+
+
+/*   HEADER    */
+.header {
+    display: grid;
+    place-items: center;
+    text-align: left;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    padding: 10% 5% 1% 5%;
+    font-size: 3rem;
+    background-color: #DFDDF4;
+}
+
+/* About me */
+.aboutMe {
+    text-align: right;
+    padding: 5% 5% 15% 5%;
+    background-color: #DFDDF4;
+}
+.img-thumbnail {
+    width: 20%;
+    border-radius: 50%;
+    padding: 0;
+    margin: 0;
+    background-color: #DFDDF4;
+    border: 0;
+}
+
+/*Digging deeper*/
+.container-md{
+    text-align: left;
+    width: 100%;
+    padding: 2.5% 0 2.5% 0;
+}
+
+table {
+    width:100%;
+    color: #3F3B6C;
+}
+tbody, tr, td {
+    padding: 4px;
+}
+th {
+    font-weight: 450;
+}
+
+
+.btn {
+    margin: 3px;
+}
+    .btn-link:hover {
+        background: #3F3B6C;
+        text-decoration: none;
+    }
+
+/*  Testimonials */
+#testimonials {
+    width: 100%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    font-size: 1.7rem;
+    background-color: #DFDDF4;
+}
+    .text-quote {
+        text-align: center;
+        padding: 0 20% 0 20%;
+    }
+
+    figcaption {
+        color:#3B3486;
+    }
+
+
+
+/* Contact me */
+.contact-me {
+    padding-top: 10%;
+    text-align: center;
+    background-color: #E7E6EF;
+}
+
+/*
+60%:
+#E7E6EF
+#DFDDF4
+30%:
+#7F7B8A
+10%:
+#3B3486
+
+*/

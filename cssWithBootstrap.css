@@ -140,27 +140,20 @@ th {
 
 /*  Testimonials */
 #testimonials {
-    display: grid;
-    place-items: center;
-    width: 90%;
-    padding-top: 10%;
-    padding-bottom: 10%;
-    font-size: 1.7rem;
+    width: 100%;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    font-size: 1rem;
     background-color: #DFDDF4;
-    margin: 0px;
 }
     .testimonialsH1 {
       text-align: center;
         font-size: 3.5rem;
         font-weight: 800;
     }
-    .text-quote {
+    .text-quote,  .figcaption {
         padding: 0 10% 0 10%;
-        width: 90%;
-        font-size: 1.7rem
-    }
-    .figcaption {
-        color: #3B3486;
+        width: 100%;
     }
 
 /* Contact me */
